@@ -13,7 +13,4 @@ I am a first-year Doctoral Student at KTH Royal Institute of Technology in Stock
 
 My research is tightly intertwined with the [Continuous Deep Analytics](https://cda-group.github.io/) (CDA) project, whose purpose is to build the foundations of next-generation scalable Big Data platforms that can make real-time decisions based on massive live data. In this project, I will investigate and develop Machine Learning algorithms and applications that process large, dynamic graphs.
 
-My research interests include:
-- Streaming Computation
-- Machine Learning on Graphs
-- Distributed Graph Processing and Analytics
+My research focuses on <b>Streaming Computation</b>, <b>Machine Learning on Graphs</b>, and <b>Distributed Graph Processing Systems</b>.
