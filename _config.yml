@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sonia F. Horchidan"
+title                    : "Sonia Horchidan"
 title_separator          : "-"
-name                     : &name "Sonia F. Horchidan"
+name                     : &name "Sonia Horchidan"
 description              : &description "personal description"
 url                      : https://soniahorchidan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
