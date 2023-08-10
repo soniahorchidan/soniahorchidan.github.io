@@ -15,7 +15,7 @@ author_profile: true
 
 M. Zwolak, Z. Abbas, <b>S. Horchidan</b>, P. Carbone, and V. Kalavri. 2022. <b>GCNSplit: Bounding the State of Streaming Graph Partitioning</b>. In Proceedings of the Fifth International Workshop on Exploiting Artificial Intelligence Techniques for Data Management (aiDM '22), co-located with ACM SIGMOD/PODS 2022. [<a href="https://scholar.google.se/citations?view_op=view_citation&hl=en&user=xOrGtrYAAAAJ&citation_for_view=xOrGtrYAAAAJ:O3NaXMp0MMsC" style="color:#64B2CB">link</a>]
 
-S. Imtiaz, <b>S. F. Horchidan</b>, Z. Abbas, M. Arsalan, H. N. Chaudhry and V. Vlassov, "<b>Privacy Preserving Time-Series Forecasting of User Health Data Streams</b>" 2020 IEEE International Conference on Big Data (Big Data), Atlanta, GA, USA, 2020, pp. 3428-3437, doi: 10.1109/BigData50022.2020.9378186. [<a href="https://ieeexplore.ieee.org/abstract/document/9378186" style="color:#64B2CB">link</a>]<br>
+S. Imtiaz, <b>S. F. Horchidan</b>, Z. Abbas, M. Arsalan, H. N. Chaudhry and V. Vlassov, "<b>Privacy Preserving Time-Series Forecasting of User Health Data Streams</b>" 2020 IEEE International Conference on Big Data (Big Data). [<a href="https://ieeexplore.ieee.org/abstract/document/9378186" style="color:#64B2CB">link</a>]<br>
 
 <b>S. F. Horchidan</b>, "<b>Real-time forecasting of dietary habits and user health using Federated Learning with privacy guarantees</b>", KTH Royal Institute of Technology, Dissertation, 2020. [<a href="https://kth.diva-portal.org/smash/record.jsf?dswid=-2391&pid=diva2%3A1468787&c=1&searchType=SIMPLE&language=en&query=horchidan&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all" style="color:#64B2CB">link</a>]<br>
 
