@@ -9,6 +9,6 @@ redirect_from:
 ---
 <br>
 
-I am a Doctoral Student at KTH Royal Institute of Technology in Stockholm, Sweden, where I am part of the Division of Software and Computer Systems (SCS) of the School of Electrical Engineering and Computer Science (EECS). My supervisors are Asst. Prof. [Paris Carbone](https://www.kth.se/profile/parisc), Prof. [Jim Dowling](https://www.kth.se/profile/jdowling), Prof. [Seif Haridi](https://www.kth.se/profile/haridi), and Prof. [Henrik Boström](https://www.kth.se/profile/henbos).
+I am a Doctoral Student at KTH Royal Institute of Technology in Stockholm, Sweden, where I am part of the Data Systems Lab. My direct supervisor is Asst. Prof. [Paris Carbone](https://www.kth.se/profile/parisc).
 
-My research focuses on <b>Graph Databases</b>, <b>Graph Machine Learning</b>, and <b>Stream Processing</b>. Specifically, my work attempts to enable a new research direction for enabling approximate query processing in Graph Databases via Machine Learning inference.
+My research focuses on <b>Graph Databases</b>, <b>Graph Machine Learning</b>, and <b>Stream Processing</b>. Specifically, my work investigates a new research direction for enabling approximate query processing in Graph Databases via Machine Learning inference.
