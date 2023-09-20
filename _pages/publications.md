@@ -22,8 +22,8 @@ S. Imtiaz, <b>S. F. Horchidan</b>, Z. Abbas, M. Arsalan, H. N. Chaudhry and V. V
 
 <h2>Service</h2>
 
-Availability Committee member at ACM SIGMOD/PODS 2023.
+Availability and Reproducibility Committee member @ ACM SIGMOD/PODS 2023.
 
-Availability Committee member at ACM SIGMOD/PODS 2022.
+Availability Committee member @ ACM SIGMOD/PODS 2022.
 
 
